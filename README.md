@@ -6,3 +6,7 @@ SocionVault is a personal project of mine that seeks to simplify and explain the
 The SocionVault project seeks to create a beginner-friendly organized learning environment with reliable sources and explanations so people won't get that confused when getting into Socionics, being able to open up a page on this site whenever they have a doubt.  
 
 <sub>_The SocionVault project is currently administrated by "B"_<sub>
+
+## _Active pages for now_  
+* (Information Elements)[https://neurotic01.github.io/socionVault/elements]
+## **TO BE CONTINUED**
