@@ -11,7 +11,7 @@ In socionics, Information Elements are the funding blocks that composes Model A.
 ## **Information Element notations**  
 
 | **Name**  | **2 Letter** | **1 Letter** | 
-| ------------- | ------------- | ------------- | 
+| ----------- | --------- | --------- | 
 | Extraverted Sensing  | Se  | F | 
 | Intraverted Sensing  | Si  | S | 
 | Extraverted Intuition  | Ne  | I | 
