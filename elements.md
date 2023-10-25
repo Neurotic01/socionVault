@@ -5,6 +5,8 @@ _The lens that builds our worldviews and interact with our environment_
 The Information Elements, also known as "IEs", elements of information metabolism, are essentially made of eight psyche categories based of [Carl Jung's](https://en.wikipedia.org/wiki/Carl_Jung) [cognitive functions theory](https://en.wikipedia.org/wiki/Jungian_cognitive_functions#:~:text=In%20his%20book%2C%20he%20noted,which%20he%20called%20%22attitudes%22.). Information Elements are fundamentally the way we perceive and process information, It acts as they act with each other perceiving and interacting with our environment. They are at their core, essential parts of the human being, making up the psyche. We all have all of the eight Information Elements acting and interacting, perceiving and judging in our metabolism everyday.  
 
 IEs are divided into four initial categories (Intuition, Sensing, Logic, Ethics) and two main forms (Extraverted, Introverted). Each one does a part in the psyche's metabolism, and Extraverted/Introverted being what does it perceives or judge. One should not think that Extraverted/Introverted has any relations to do with social extroversion, we will cover more of that part in the Function Dichotomies part.  
+
+In socionics, Information Elements are the funding blocks that composes Model A.
   
 ## **Information Element notations**  
 
