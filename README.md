@@ -9,4 +9,5 @@ The SocionVault project seeks to create a beginner-friendly organized learning e
 
 ## _Active pages for now_  
 * [Information Elements](https://neurotic01.github.io/socionVault/elements)
-## **TO BE CONTINUED**
+  
+##**TO BE CONTINUED**
