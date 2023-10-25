@@ -16,7 +16,8 @@ Nicknames: Conqueror, Marshal, Zhukov, Butcher, Angry macho man, Alyans, or arch
 > [!WARNING]
 > This page is still being made therefore i's incomplete, expect changes and fixes in the future.
 
-   <sub>SLE Dichotomies and Small Groups<sub>    
+   <sub>SLE Dichotomies and Small Groups<sub>  
+  
 Extraverted * Sensing * Logical * Irrational  
 Static * Yielding * Aristocratic * Strategic * Constructivist * Farsighted * Merry * Decisive * Negativist * Result * Declaring *  
 Beta Quadra * Pragmatists * EP Temperament * Business-like * Agressor * Project Groups
