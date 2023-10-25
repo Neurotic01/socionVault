@@ -4,7 +4,7 @@ Abbreviations: SLE, ESTp, FL, Alyans type
 Ego Block Elements: SeTi (Extroverted Sensing, Introverted Logic)  
 Nicknames: Conqueror, Marshal, Zhukov, Butcher, Angry macho man, Alyans, or archetype **Georgy Zhukov**  
 
-              <sub>SLE(ESTp) Model A metabolism<sub>  
+   <sub>SLE(ESTp) Model A metabolism<sub>  
   
 | **Inert**  | **Contact** | **Properties** | **Blocks** |
 | :------------ | :------------ | :------------ | :------------ |
