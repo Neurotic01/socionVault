@@ -41,7 +41,7 @@ IEs are divided into four initial categories (Intuition, Sensing, Logic, Ethics)
 - **Te:** an active, but steady and purposeful state conducive to performing goal-oriented activities, n evaluatory state of mind that directly assesses events and actions of other people from logical POV and openly voices those assessments, assessing and estimating productivity, efficiency, usefulness, rational sense of any given involvement venture or activity, steady and purposeful state of mind that leads to making rational actions despite the present sentiments.
 - **Ti:** clarity and exactitude of thought, a sense of order and regularity in different levels of structure; a sense of building a complete system from simple and well-understood parts,  seeing the whole system and then spotting nonsensical flaws or mistakes, or alternatively building one’s own systems from simple and well-understood parts, analysing, structuring and ordering, internal structuring, like fitting puzzle pieces in an internal framework.  
   
-<sub> **_Sources:_**<sub>  
-<sub>- https://wikisocion.github.io/content/elements.html<sub>  
-<sub>- https://www.sociotype.com/socionics/information_elements<sub>  
-<sub>- my head <sub><sub>  
+ **_Sources:_**  
+- https://wikisocion.github.io/content/elements.html   
+- https://www.sociotype.com/socionics/information_elements  
+- my head 
