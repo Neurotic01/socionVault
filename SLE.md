@@ -5,6 +5,7 @@ Ego Block Elements: SeTi (Extroverted Sensing, Introverted Logic)
 Nicknames: Conqueror, Marshal, Zhukov, Butcher, Angry macho man, Alyans, or archetype **Georgy Zhukov**  
 
               <sub>SLE(ESTp) Model A metabolism<sub>  
+  
 | **Inert**  | **Contact** | **Properties** | **Blocks** |
 | :------------ | :------------ | :------------ | :------------ |
 | **Se**<br />1st Base Function<br />4D  | **Ti**<br />2nd Creative Function<br />3D  | _strong_ <br /> _conscious_ <br /> _valued_ | Ego  |
