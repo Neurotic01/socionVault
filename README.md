@@ -1,5 +1,5 @@
 # An Introduction to SocionVault
-_An organized structured way of learning_  
+_An organized & structured way of learning_  
   
 ## _What is SocionVault?_
 SocionVault is a personal project of mine that seeks to simplify and explain the [Socionics](https://en.wikipedia.org/wiki/Socionics) psychological types theory proposed by the Lithuanian psychologist [Aušra Augustinavičiūtė](https://en.wikipedia.org/wiki/Au%C5%A1ra_Augustinavi%C4%8Di%C5%ABt%C4%97).  
