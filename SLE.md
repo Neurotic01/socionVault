@@ -3,9 +3,9 @@
 > This page is still being made therefore it's incomplete, expect changes and fixes in the future.  
   
 ### **Sensing Logical Extratim**
-Abbreviations: SLE, ESTp, FL, Alyans type  
+Abbreviations: SLE, ESTp, FL,   
 Ego Block Elements: SeTi (Extroverted Sensing, Introverted Logic)  
-Nicknames: Conqueror, Marshal, Zhukov, Butcher, Angry macho man, Alyans, or archetype **Georgy Zhukov**  
+Nicknames: Conqueror, Marshal, Zhukov, or archetype **Georgy Zhukov**  
 
    <sub>SLE(ESTp) Model A metabolism<sub>  
    
@@ -20,5 +20,5 @@ Nicknames: Conqueror, Marshal, Zhukov, Butcher, Angry macho man, Alyans, or arch
   
 Extraverted - Sensing - Logical - Irrational  
 Static - Yielding - Aristocratic - Strategic - Constructivist - Farsighted - Merry - Decisive - Negativist- Result - Declaring -  
-Beta Quadra - Pragmatists - EP Temperament - Business-like - Agressor - Project Groups  
-   
+Beta Quadra - Pragmatists - EP Temperament - Business-like - Agressor - Project Groups 
+
